@@ -4,8 +4,4 @@ The list can be used to see how many households/people live in each area, and ca
 
 The list is based on the CBS kerngetallen data from 2020.
 
-The Python file is intended to be opened/hosted with Streamlit. See the result <a href="https://jongstra-amsterdam-pc6-ge-amsterdam-postcode6-avg-filter-u8dyei.streamlitapp.com/" target="_blank">here</a>.
-
-
-
-<!-- [here](https://jongstra-amsterdam-pc6-ge-amsterdam-postcode6-avg-filter-u8dyei.streamlitapp.com/){:target="_blank"}. -->
+The Python file is intended to be opened/hosted with Streamlit. See the result [here](https://jongstra-amsterdam-pc6-ge-amsterdam-postcode6-avg-filter-u8dyei.streamlitapp.com/).
