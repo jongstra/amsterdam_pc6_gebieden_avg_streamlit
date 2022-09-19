@@ -21,9 +21,8 @@ st.text('De AVG gevoeligheid is bepaald o.b.v. het aantal huishoudens per postco
 st.text('Definitie AVG_GEVOELIG: minder dan 15 huishoudens of onbekend aantal huishoudens.')
 st.text('')
 
-
-st.write('Deze informatie is gebaseerd op de CBS kerncijfers naar volledige postcode (PC6), 2020. [Info](https://www.cbs.nl/nl-nl/dossier/nederland-regionaal/geografische-data/gegevens-per-postcode). [Data](https://download.cbs.nl/postcode/CBS-PC6-2020-v1.zip)')
+st.write('Deze informatie is gebaseerd op de CBS kerncijfers naar volledige postcode (PC6), 2020. [Info](https://www.cbs.nl/nl-nl/dossier/nederland-regionaal/geografische-data/gegevens-per-postcode). [Data](https://download.cbs.nl/postcode/CBS-PC6-2020-v1.zip).')
 st.text('')
 
-st.text('Gemaakt door Thomas Jongstra in 2022')
+st.text('Gemaakt door Thomas Jongstra in 2022.')
 st.text('Contact: jongstra@gmail.com')
