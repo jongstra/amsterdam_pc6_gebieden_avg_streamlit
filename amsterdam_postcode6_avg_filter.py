@@ -1,6 +1,5 @@
 import streamlit as st
 import pandas as pd
-import geopandas as gpd
 
 st.title('AVG Gevoeligheid van Postcode6 gebieden in Amsterdam')
 
